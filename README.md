@@ -16,7 +16,6 @@ ECHO is on.
 ECHO is on.
 ## How It Works 
 The game uses Scratch's programming blocks to control the movement of the stars and the bowl. A custom block named `fallingObject` is used to manage the falling stars' behavior and speed. The game includes loops and conditionals to handle the falling logic and score updates. 
-ECHO is on.
 ## Project Details 
 - **Language**: Scratch (SB3 file format) 
 - **File Name**: `catch the star copy.sb3` 
