@@ -20,7 +20,7 @@ ECHO is on.
 ## Project Details 
 - **Language**: Scratch (SB3 file format) 
 - **File Name**: `catch the star copy.sb3` 
-- **Author**: [Your Name] 
+- **Author**: Emmanuella Okafor 
 ECHO is on.
 ## License 
 This project is for educational purposes and is shared under the [Your License of Choice] license. 
